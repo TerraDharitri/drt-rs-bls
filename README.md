@@ -1,6 +1,6 @@
 # dharitri-bls for Rust
 
-This is a wrapper library of [bls](https://github.com/herumi/bls/), that bridges the functionality with dharitri [crypto packages](https://github.com/dharitri/drt-chain-crypto-go).
+This is a wrapper library of [bls](https://github.com/herumi/bls/), that bridges the functionality with DharitrI [crypto packages](https://github.com/TerraDharitri/drt-go-chain-crypto).
 
 ## Spec Name
 
